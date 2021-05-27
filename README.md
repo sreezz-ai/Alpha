@@ -2,10 +2,10 @@
   <img src="https://a.top4top.io/p_1966tfto21.jpg" alt="AlphabotSupport">
 </p>
 <h1 align="center">
-  <b>Ultroid - UserBot</b>
+  <b>Alpha - UserBot</b>
 </h1>
 
-<b>A stable pluggable Telegram userbot + vc music bot, based on Telethon.</b>   
+<b>Bot musik vc userbot + vc yang dapat dicolokkan dan stabil, berdasarkan Telethon.</b>   
 
 [![Stars](https://img.shields.io/github/stars/TeamUltroid/Ultroid?style=flat-square&color=yellow)](https://github.com/TeamUltroid/Ultroid/stargazers)
 [![Forks](https://img.shields.io/github/forks/TeamUltroid/Ultroid?style=flat-square&color=orange)](https://github.com/TeamUltroid/Ultroid/fork)
@@ -24,7 +24,7 @@
 - [Heroku](#Deploy-to-Heroku)
 - [Local Machine](#Deploy-Locally)
 
-# Documentation 
+# Dokumentasi 
 [![Document](https://img.shields.io/badge/Documentation-Ultroid-blue)](http://ultroid.tech/)
 
 # Tutorial 
