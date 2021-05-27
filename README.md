@@ -84,7 +84,7 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
 
 ## Session String
 Different ways to get your `SESSION`:
-* [![Run on Repl.it](https://replit.com/badge/github/TeamUltroid/Ultroid)](https://replit.com/zeeone/AlphabotStringSession)
+* [![Run on Repl.it](https://replit.com/badge/github/zeeoneofc/Alpha-X-Ultroid)](https://replit.com/@zeeone/AlphabotStringSession)
 
 # License
 Ultroid is licensed under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) v3 or later.
