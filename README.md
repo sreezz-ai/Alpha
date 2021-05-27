@@ -7,16 +7,16 @@
 
 <b>Bot musik vc userbot + vc yang dapat dicolokkan dan stabil, berdasarkan Telethon.</b>   
 
-[![Stars](https://img.shields.io/github/stars/TeamUltroid/Ultroid?style=flat-square&color=yellow)](https://github.com/TeamUltroid/Ultroid/stargazers)
-[![Forks](https://img.shields.io/github/forks/TeamUltroid/Ultroid?style=flat-square&color=orange)](https://github.com/TeamUltroid/Ultroid/fork)
-[![Size](https://img.shields.io/github/repo-size/TeamUltroid/Ultroid?style=flat-square&color=green)](https://github.com/TeamUltroid/Ultroid/)   
+[![Stars](https://img.shields.io/github/stars/zeeoneofc/Alpha-X-Ultroid?style=flat-square&color=yellow)](https://github.com/zeeoneofc/Alpha-X-Ultroid/stargazers)
+[![Forks](https://img.shields.io/github/forks/zeeoneofc/Alpha-X-Ultroid?style=flat-square&color=orange)](https://github.com/zeeoneofc/Alpha-X-Ultroid/fork)
+[![Size](https://img.shields.io/github/repo-size/zeeoneofc/Alpha-X-Ultroid?style=flat-square&color=green)](https://github.com/zeeoneofc/Alpha-X-Ultroid/)   
 [![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/TeamUltroid/Ultroid/graphs/commit-activity)
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TeamUltroid/Ultroid)   
-[![Contributors](https://img.shields.io/github/contributors/TeamUltroid/Ultroid?style=flat-square&color=green)](https://github.com/TeamUltroid/Ultroid/graphs/contributors)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/zeeoneofc/Ultroid/graphs/commit-activity)
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/zeeoneofc/Alpha-X-Ultroid)   
+[![Contributors](https://img.shields.io/github/contributors/zeeoneofc/Alpha-X-Ultroid?style=flat-square&color=green)](https://github.com/zeeoneofc/Alpha-X-Ultroid/graphs/contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/TeamUltroid/Ultroid/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/Teamultroid/Ultroid.svg)](https://stars.medv.io/TeamUltroid/Ultroid)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/zeeoneofc/Alpha-X-Ultroid/blob/main/LICENSE)
+[![Sparkline](https://stars.medv.io/zeeoneofc/Ultroid.svg)](https://stars.medv.io/zeeoneofc/Alpha-X-Ultroid)
 
 ----
 
