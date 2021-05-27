@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./resources/extras/logo_readme.jpg" alt="TeamUltroid Logo">
+  <img src="https://a.top4top.io/p_1966tfto21.jpg" alt="AlphabotSupport">
 </p>
 <h1 align="center">
   <b>Ultroid - UserBot</b>
