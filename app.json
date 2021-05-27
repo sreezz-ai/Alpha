@@ -1,7 +1,7 @@
 {
-    "name": "Ultroid UserBot",
-    "description": "Pluggable telegram userbot, made in python using Telethon.",
-    "logo": "https://telegra.ph/file/031957757a4f6a5191040.jpg",
+    "name": "Alpha UserBot",
+    "description": "Userbot telegram di buat dengan tujuan tiada lain hanya untuk bersenang-senang.",
+    "logo": "https://i.ibb.co/TPX004N/26.jpg",
     "keywords": [
         "Telethon",
         "telegram",
@@ -9,40 +9,40 @@
         "python",
         "ultroid"
     ],
-    "repository": "https://github.com/TeamUltroid/Ultroid",
+    "repository": "https://github.com/zeeoneofc/Alpha-X-Ultroid",
     "website": "https://ultroid.tech",
-    "success_url": "https://t.me/TheUltroid",
+    "success_url": "https://t.me/zeeone_ofc",
     "stack": "container",
     "env": {
         "API_ID": {
-            "description": "You api id, from my.telegram.org or @ScrapperRoBot.",
+            "description": "Ambil API ID di my.telegram.org atau @ScrapperRoBot.",
             "value": "", 
             "required": false
         },
         "API_HASH": {
-            "description": "You api hash, from my.telegram.org or @ScrapperRoBot.",
+            "description": "Ambil API HASH di my.telegram.org atau @ScrapperRoBot.",
             "value": "",
             "required": false
         },
         "SESSION": {
-            "description": "Your session string. Can be added now, or after deploy. (The bot will NOT work without a session string!!)",
+            "description": "String sesi Anda. Dapat ditambahkan sekarang, atau setelah penerapan. (Bot TIDAK akan berfungsi tanpa string sesi !!)",
             "value": ""
         },
         "REDIS_URI": {
-            "description": "Redis endpoint URL, from redislabs.com",
+            "description": "Redis endpoint URL, dapatkan di redislabs.com",
             "value": ""
         },
         "REDIS_PASSWORD": {
-            "description": "Redis endpoint password, from redislabs.com",
+            "description": "Redis endpoint password, dapatkan di redislabs.com",
             "value": ""
         },
         "HEROKU_API": {
-            "description": "Heroku API token. Needed if deploying on heroku ONLY.",
+            "description": "Heroku API token. Diperlukan jika menerapkan HANYA di heroku.",
             "value": "",
             "required": false
         },
         "HEROKU_APP_NAME": {
-            "description": "Name of your heroku app, given in the first blank on this page. To be added if deploying to heroku ONLY.",
+            "description": "Nama aplikasi heroku Anda, yang ada di bagian paling atas.",
             "value": "",
             "required": false
         }
