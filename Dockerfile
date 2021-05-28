@@ -3,15 +3,15 @@
 # This file is a part of < https://github.com/TeamUltroid/Ultroid/ >
 # PLease read the GNU Affero General Public License in <https://www.github.com/TeamUltroid/Ultroid/blob/main/LICENSE/>.
 
-FROM programmingerror/ultroid:v0.0.2
+FROM programmingerror/Alpha-X-Ultroid:v0.0.2
 
 ENV TZ=Asia/Kolkata
 RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
 RUN apt-get autoremove --purge
 
-RUN git clone https://github.com/TeamUltroid/Ultroid.git /root/TeamUltroid/
+RUN git clone https://github.com/zeeoneofc/Alpha-X-Ultroid.git /root/zeeoneofc/
 
-WORKDIR /root/TeamUltroid/
+WORKDIR /root/zeeoneofc/
 
 RUN pip3 install -r requirements.txt
 RUN npm install -g npm@7.12.1 -g
