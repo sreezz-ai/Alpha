@@ -19,13 +19,13 @@ autopic_2: "Tidak ada hasil yang ditemukan untuk `{}`"
 autopic_3: "Mendapatkan koleksi `{}` yang terkait dengan penelusuran Anda !\nMemulai Autopic !"
 
 # inline
-inline_1: "[Uʟᴛʀᴏɪᴅ Sᴜᴘᴘᴏʀᴛ](t.me/ultroidsupport)\n\n
+inline_1: "[Alphabot Support](t.me/alphabot_support)\n\n
 **Hᴇʟᴘ Mᴇɴᴜ Oғ {}.\n\n
 Pʟᴜɢɪɴs ~ {}**"
-inline_2: "[Uʟᴛʀᴏɪᴅ Sᴜᴘᴘᴏʀᴛ](t.me/ultroidsupport)\n\n
+inline_2: "[Alphabot Support](t.me/alphabot_support)\n\n
 **Hᴇʟᴘ Mᴇɴᴜ Oғ {}.\n\n
 Aᴅᴅᴏɴs ~ {}**"
-inline_3: "[Uʟᴛʀᴏɪᴅ Sᴜᴘᴘᴏʀᴛ](t.me/ultroidsupport)\n\n
+inline_3: "[Alphabot Support](t.me/alphabot_support)\n\n
 **Hᴇʟᴘ Mᴇɴᴜ Oғ {}.\n\n
 Aᴅᴅᴏɴs ~ {}\n\n
 Pᴇʀɢɪ Dᴀɴ Tᴀᴍʙᴀʜᴋᴀɴ `ADDONS` Vᴀʀ Dᴇɴɢᴀɴ Vᴀʟᴜᴇ Tʀᴜᴇ**"
@@ -68,7 +68,7 @@ alive_1: "**The Ultroid Userbot...**\n\n
 ┣ **Telethon** - `{}`\n
 ┣ **Branch** - `{}`\n
 ┗━━━━━━━━━━━━━━━━━━━━━"
-log: "**Heroku** Ultroid Logs.\nPasted [here]({}) too!"
+log: "**Heroku** Alphabot Logs.\nPasted [here]({}) too!"
 ping: "**Pong !!** `{}ms`\n**Uptime** - `{}`"
 usage: "**⚙️ Dyno Usage ⚙️**:\n\n
  -> `Pemakaian Dyno Untuk`  **{}**:\n
@@ -101,7 +101,7 @@ chats_2: "`Tidak bisa menghapus chat ini zzzz`"
 chats_3: "`Gua bukan admin`"
 chats_4: "#Terhapus\nTerhapus {}"
 chats_5: "Anda [{}]({}) Grup telah dibuat oleh boss!"
-chats_6: "Join @TeamUltroid"
+chats_6: "Join @alphabot_support"
 
 # converter
 cvt_1: "Balas ke media/Dokumen apapun."
