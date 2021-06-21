@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://a.top4top.io/p_1966tfto21.jpg" alt="AlphabotSupport">
+  <img src="https://avatars.githubusercontent.com/u/85176770?v=4" alt="AlphabotSupport">
 </p>
 <h1 align="center">
   <b>Alpha - UserBot</b>
